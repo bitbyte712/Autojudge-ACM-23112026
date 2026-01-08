@@ -140,7 +140,18 @@ pip install -r requirements.txt
 ###3. Run the Web Application
 streamlit run app.py
 
-### Video LINK -
+## Web Interface Explanation
+
+A web-based interface is developed using **Streamlit** to allow users to interact with the AutoJudge system easily.  
+The interface provides input fields where users can enter the problem description, input format, and output format.
+
+After submitting the input, the application processes the text using the same preprocessing and feature extraction steps used during model training.  
+It then displays the **predicted difficulty class (Easy / Medium / Hard)** and the **predicted numeric difficulty score** instantly.
+
+The web interface runs locally and uses the saved trained models, ensuring consistent and reliable predictions.
+
+
+### Video LINK - https://drive.google.com/drive/u/0/folders/1YPpX_DAlkETvXeZxvADih5CbfguE5e7V
 
 ### Name And Details
 Milan Bambhaniya
