@@ -134,3 +134,15 @@ The web interface follows the same preprocessing and feature extraction steps us
 ```bash
 git clone <your-github-repo-link>
 cd AutoJudge
+### 2. Install Dependencies
+pip install -r requirements.txt
+
+###3. Run the Web Application
+streamlit run app.py
+
+### Video LINK -
+
+### Name And Details
+Milan Bambhaniya
+23112026
+Chemical Engineer - IIT Roorkee
