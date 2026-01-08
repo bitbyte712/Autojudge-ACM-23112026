@@ -131,7 +131,7 @@ The web interface follows the same preprocessing and feature extraction steps us
 ## Steps to Run the Project Locally
 
 ### 1. Clone the Repository
-```bash
+
 git clone <your-github-repo-link>
 cd AutoJudge
 ### 2. Install Dependencies
