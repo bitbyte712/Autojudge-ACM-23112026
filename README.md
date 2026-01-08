@@ -132,7 +132,7 @@ The web interface follows the same preprocessing and feature extraction steps us
 
 ### 1. Clone the Repository
 
-git clone <your-github-repo-link> cd AutoJudge
+git clone (your-github-repo-link) cd AutoJudge
 
 ### 2. Install Dependencies
 pip install -r requirements.txt
