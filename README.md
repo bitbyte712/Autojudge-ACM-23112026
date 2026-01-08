@@ -132,8 +132,8 @@ The web interface follows the same preprocessing and feature extraction steps us
 
 ### 1. Clone the Repository
 
-git clone <your-github-repo-link>
-cd AutoJudge
+git clone <your-github-repo-link> cd AutoJudge
+
 ### 2. Install Dependencies
 pip install -r requirements.txt
 
@@ -156,4 +156,4 @@ The web interface runs locally and uses the saved trained models, ensuring consi
 ### Name And Details
 Milan Bambhaniya
 23112026
-Chemical Engineer - IIT Roorkee
+Chemical Engineering - IIT Roorkee
