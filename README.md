@@ -137,7 +137,7 @@ cd AutoJudge
 ### 2. Install Dependencies
 pip install -r requirements.txt
 
-###3. Run the Web Application
+### 3. Run the Web Application
 streamlit run app.py
 
 ## Web Interface Explanation
